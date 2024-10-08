@@ -1,0 +1,1 @@
+project = "VCS3020X Rel. 10 Product JIRA" AND type = "EPIC" AND summary  ~ "ST: SIT" AND statusCategory != Done AND created >=  startOfDay()

@@ -1,0 +1,10 @@
+{
+  "project":
+    {"key": "PVCSX"},
+  "issuetype":
+    {"name": "Epic"},
+  "summary": "ST: SIT -",
+  "customfield_11502": "ST: SIT -",
+  "description": "Documentation of System Integration Testing.",
+  "labels": ["XVP-TEAM-ST"]
+}

@@ -1,0 +1,9 @@
+{
+  "project":
+    {"key": "PVCSX"},
+  "issuetype":
+    {"name": "Story"},
+  "summary": "ST: IT -",
+  "labels": ["XVP-TEAM-ST"],
+  "description": "Documentation of System Integration Testing."
+}

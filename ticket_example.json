@@ -1,0 +1,205 @@
+{
+  "title": "[PVCSX-42312] ST: IT - Mission Proposal - Supervisor HMI",
+  "link": "https://jira.frequentis.com/browse/PVCSX-42312",
+  "project": {
+    "id": "16501",
+    "key": "PVCSX",
+    "name": "VCS3020X Rel. 10 Product JIRA"
+  },
+  "description": "Documentation of Integration Testing.",
+  "key": {
+    "id": "1165941",
+    "value": "PVCSX-42312"
+  },
+  "summary": "ST: IT - Mission Proposal - Supervisor HMI",
+  "type": {
+    "id": "7",
+    "iconUrl": "https://jira.frequentis.com/secure/viewavatar?size=xsmall&avatarId=13915&avatarType=issuetype",
+    "name": "Story"
+  },
+  "priority": {
+    "id": "7",
+    "iconUrl": "https://jira.frequentis.com/images/icons/priorities/minor.svg",
+    "name": "Medium"
+  },
+  "status": {
+    "id": "6",
+    "iconUrl": "https://jira.frequentis.com/images/icons/statuses/closed.png",
+    "description": "The issue is considered finished, the resolution is correct.",
+    "statusCategory": {
+      "id": "3",
+      "key": "done",
+      "colorName": "success"
+    }
+  },
+  "resolution": {
+    "id": "1",
+    "name": "Fixed"
+  },
+  "security": {
+    "id": "10200",
+    "name": "Intern"
+  },
+  "assignee": {
+    "username": "masimetz",
+    "name": "SIMETZBERGER Markus"
+  },
+  "reporter": {
+    "username": "xblloku",
+    "name": "BLLOKU Xhuljeta"
+  },
+  "labels": [
+    "ST:PI1-2024-Sprint3",
+    "SYSE_Test_OK",
+    "XVP-TEAM-ST"
+  ],
+  "created": "Thu, 28 Mar 2024 15:48:25 +0100",
+  "updated": "Tue, 17 Sep 2024 14:55:03 +0200",
+  "resolved": "Tue, 16 Apr 2024 10:03:03 +0200",
+  "votes": 0,
+  "watches": 2,
+  "timeestimate": {
+    "seconds": 0,
+    "humanReadable": "0h"
+  },
+  "comments": [
+    {
+      "id": "2022823",
+      "author": "manhofer",
+      "created": "Tue, 16 Apr 2024 10:02:38 +0200",
+      "content": "Basic functionality OK, Forced Mission activation OK, Mission List OK, Mission proposal OK on SUP and voice HMI."
+    }
+  ],
+  "customfields": {
+    "Acceptance Criteria": "• System Integration Testing executed.\n• Short description of what was tested is documented in this ticket by adding a comment.\n• If feature was tested successfully\n   add label SYSE_TEST_OK\n   set ticket to RESOLVE this ticket (fixed)",
+    "Closing Date": "Tue, 30 Apr 2024 08:53:59 +0200",
+    "Combined Status": "Closed",
+    "Delegated Status": "Is not delegated",
+    "Epic Link": "PVCSX-42311",
+    "Jama ID": "PVCSX-STY-9024",
+    "Rank": "2|i0a1ba:",
+    "Rank (Obsolete)": "9223372036854775807",
+    "Story Points": 1.0
+  }
+}
+
+
+
+{
+  "rss": {
+    "version": "0.92",
+    "channel": {
+      "title": "Frequentis JIRACLONE",
+      "link": "https://jiraclone.frequentis.com",
+      "description": "This file is an XML representation of an issue",
+      "language": "en-uk",
+      "build-info": {
+        "version": "9.12.13",
+        "build-number": "9120013",
+        "build-date": "04-09-2024"
+      },
+      "item": {
+        "title": "[PVCSX-45667] ST: FFT - Reduce number of monitored items in Zabbix",
+        "link": "https://jiraclone.frequentis.com/browse/PVCSX-45667",
+        "project": {
+          "id": "16501",
+          "key": "PVCSX",
+          "name": "VCS3020X Rel. 10 Product JIRA"
+        },
+        "description": "Documentation of System Integration Testing.",
+        "key": "PVCSX-45667",
+        "summary": "ST: FFT - Reduce number of monitored items in Zabbix",
+        "type": {
+          "id": "7",
+          "iconUrl": "https://jiraclone.frequentis.com/secure/viewavatar?size=xsmall&avatarId=13915&avatarType=issuetype",
+          "name": "Story"
+        },
+        "priority": {
+          "id": "7",
+          "iconUrl": "https://jiraclone.frequentis.com/images/icons/priorities/minor.svg",
+          "name": "Medium"
+        },
+        "status": {
+          "id": "10001",
+          "iconUrl": "https://jiraclone.frequentis.com/images/icons/statuses/generic.png",
+          "description": "The issue is new and waiting to be accepted or estimated."
+        },
+        "statusCategory": {
+          "id": "2",
+          "key": "new",
+          "colorName": "default"
+        },
+        "resolution": {
+          "id": "-1",
+          "name": "Unresolved"
+        },
+        "security": {
+          "id": "10200",
+          "name": "Intern"
+        },
+        "assignee": {
+          "username": "-1",
+          "name": "Unassigned"
+        },
+        "reporter": {
+          "username": "msakala",
+          "name": "SAKALA Michal (external)"
+        },
+        "labels": ["XVP-TEAM-ST"],
+        "created": "Tue, 17 Sep 2024 16:21:10 +0200",
+        "updated": "Tue, 17 Sep 2024 16:22:12 +0200",
+        "due": "",
+        "votes": "0",
+        "watches": "1",
+        "attachments": [],
+        "subtasks": [],
+        "customfields": {
+          "customfield_12301": {
+            "name": "Combined Status",
+            "value": "New"
+          },
+          "customfield_12300": {
+            "name": "Delegated Status",
+            "value": "Is not delegated"
+          },
+          "customfield_14000": {
+            "name": "Development",
+            "value": ""
+          },
+          "customfield_11501": {
+            "name": "Epic Link",
+            "value": "PVCSX-43058"
+          },
+          "customfield_15601": {
+            "name": "FOR Analysis",
+            "value": "FOR Not Affected Branches: "
+          },
+          "customfield_15600": {
+            "name": "FOR Details",
+            "value": "FOR Test Remarks: <br/> <br/> FOR Additional Branch Description: <br/> <br/> FOR Affected Branch Analysis: <br/> <br/> FOR Customer Details: "
+          },
+          "customfield_13000": {
+            "name": "Rank",
+            "value": "2|i0qw20:"
+          },
+          "customfield_10500": {
+            "name": "Rank (Obsolete)",
+            "value": "9223372036854775807"
+          },
+          "customfield_14900": {
+            "name": "Structure Index Monitor",
+            "value": ""
+          },
+          "customfield_12203": {
+            "name": "jqltField",
+            "value": ""
+          },
+          "customfield_11215": {
+            "name": "technical_field_for_issue_linking",
+            "value": ""
+          }
+        }
+      }
+    }
+  }
+}
